@@ -1,6 +1,6 @@
 cask "duobar" do
-  version "1.3.1"
-  sha256 "b9bfb9dea85a4bd8d81121567427b23c1a8aca8d7f16ad7f7cfeb50e1937747f"
+  version "1.3.2"
+  sha256 "18b878391eeab47a53c4ae0b51d10ae0468a8d7d489b5ae056f6cd5281053bae"
 
   url "https://github.com/Mikeli7666/DuoBar/releases/download/v#{version}/DuoBar-#{version}.dmg"
   name "DuoBar"
